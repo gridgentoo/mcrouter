@@ -1,3 +1,18 @@
+Оригинальный репозитарий facebook   
+https://github.com/facebook/mcrouter    
+
+Mcrouter (произносится как mc router) - это маршрутизатор протокола memcached для масштабирования развертываний memcached. 
+Это ключевой компонент инфраструктуры кэширования в Facebook и Instagram, где mcrouter обрабатывает почти 5 миллиардов запросов в секунду на пике.    
+
+Mcrouter разработан и поддерживается Facebook    
+Для начала. https://github.com/facebook/mcrouter/wiki    
+
+Про модификацию Сетевого стека от Facebook    
+https://docs.google.com/document/d/12NMFHSpqFahT8zuYtSjBAp0NAmrYUkftljvMFv_e6vc/   
+
+[_Facebook] Сетевой стек от Facebook Reverse Engineering   
+https://drive.google.com/drive/folders/1i4bxDEV55h9jZ2mmZvZ5nmVTTMERtl5a   
+
 # Mcrouter [![Build Status](https://github.com/facebook/mcrouter/workflows/build/badge.svg)](https://github.com/facebook/mcrouter/actions?workflow=build)
 [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine) [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/facebook/mcrouter/blob/master/LICENSE)
 
